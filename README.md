@@ -1,12 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Achyut Krishna Sai</h1>
+<h1 align="center">Hi 👋, I'm Rut Butani</h1>
 <h3 align="center">A passionate developer from India</h3>
-<div align='center'>
-  <img align='right' src='https://media.giphy.com/media/52Fzb15SPPaE67hwnD/giphy.gif' width='200'>
 
-
-  
-</div>
 
 ```python
 import time, depression, notSleep
@@ -21,15 +16,10 @@ while True:
 
 <div>
   
-  ### Achyut Krishna here!!! 😀😀
-  - 💻 Just obsessed with everything tech
-  - ✨ Fun Fact: It took me 3hrs+ to make this
-  - 📚 An undergrad studying CE 
-  - 👀 Currently exploring Data Science 📈
-  - 🖊 I love writing and am experienced writing/editing/translation content. 
-  - 👔 I'm working on trying to find a potion that gives me the anti-procrastination buff🧝‍♂
-  
-  > _"Currently living my life at a speed of 244 wtf/s"_ - **Neel**
+  ### Rut Butani here!!! 😀😀
+  - 👀 Currently exploring UNITY GAME DEVELOPMENT
+
+
  <br/>
   
 <br>
