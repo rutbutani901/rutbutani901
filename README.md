@@ -4,11 +4,7 @@
 
 
 ```python
-import time, depression, notSleep
-while True:
-    "https://rutbutani901.github.io".procrastinate()
-    time.notSleep(1)
-    depression=True
+
     
 ````
 
